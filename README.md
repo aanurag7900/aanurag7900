@@ -7,12 +7,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aanurag7900"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aanurag7900@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/aanurag.01?igsh=OGRiNWQ0eHpvNjdv"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/aanurag7900"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/share/18DAbiK4VN/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://twitter.com/aanurag7900"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
 
 ## 📌 About Me
 - Final Year B.Tech in Computer Science & Engineering  
